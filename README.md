@@ -17,4 +17,4 @@ joblib==1.2.0<br>
 matplotlib==3.8.1
 
 ## Working
-We have [main.py](https://github.com/ParagGawai/Efficient_Data_Stream_Anomaly_Detection/blob/main/main.py) file
+We have [main.py](https://github.com/ParagGawai/Efficient_Data_Stream_Anomaly_Detection/blob/main/main.py) file which is the main driver code of the project. It requires [model_prod.py]
