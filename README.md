@@ -1,4 +1,4 @@
-Project Title:
+**Project Title:**
 Efficient Data Stream Anomaly Detection
 
 
